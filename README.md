@@ -14,10 +14,9 @@ COMPILAÇÃO E EXECUÇÃO:
 2. Comando "make PetFera" ou "./bin/PetFera" para executar.
 
 GRUPO:
+	
 	Alex Barbosa Félix Da Silva;
-
 	Francisco de Assis Campos Junior;
-
 	Kaio Henrique de Sousa.
 
 
