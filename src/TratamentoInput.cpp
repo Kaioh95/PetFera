@@ -23,7 +23,6 @@ char * TratamentoInput::inputChar(){
 	return auxiliar;
 };
 
-
 string TratamentoInput::inputString(){
 	char * auxiliar = new char;
 	cin.clear();
